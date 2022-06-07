@@ -4,17 +4,9 @@ repo: Upptime # The name of this repository
 
 sites:
   - name: CWB-GOV
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: CWB-GOV
     url: https://www.cwb.gov.tw
   - name: YouTube
-    url: https://www.youtube.com 
+    url: https://www.youtube.com
   - name: LeetCode
     url: https://leetcode.com
   - name: CNN
