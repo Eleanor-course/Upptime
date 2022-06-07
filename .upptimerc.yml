@@ -11,7 +11,17 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
-
+  - name: 中央氣象局
+    url: https://www.cwb.gov.tw/V8/C/
+  - name: YouTube
+    url: https://www.youtube.com/ 
+  - name: LeetCode
+    url: https://leetcode.com/
+  - name: CNN
+    url: https://edition.cnn.com/
+  - name: HackMD
+    url: https://hackmd.io/
+  
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
